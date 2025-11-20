@@ -19,11 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+Responsive 
 </details>
 
 
@@ -31,12 +30,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Je website
+Spa zuiver
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+
+https://zuiveramsterdam.nl 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
